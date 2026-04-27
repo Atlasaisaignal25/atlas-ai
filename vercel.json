@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/atlas-engine",
+      "schedule": "*/5 * * * *"
+    }
+  ]
+}

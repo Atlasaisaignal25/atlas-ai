@@ -1,0 +1,41 @@
+{
+  "sport": "SOCCER",
+  "date": "2026-04-27",
+  "games": [
+    {
+      "gameId": "c35cec8c25a5e2bc1ca9bfa3b870c161",
+      "awayTeam": "Gil Vicente",
+      "homeTeam": "Casa Pia",
+      "pick": "Over 2.5",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "b68fd46a853603c38e3f4750b40181a0",
+      "awayTeam": "Espanyol",
+      "homeTeam": "Levante",
+      "pick": "Over 2.5",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "ea38471acf4d5944929f9025e151376d",
+      "awayTeam": "Manchester United",
+      "homeTeam": "Brentford",
+      "pick": "Manchester United ML",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
+      "awayTeam": "Cagliari",
+      "homeTeam": "Atalanta BC",
+      "pick": "Atalanta BC ML",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "aa8294b91a1920474d420d34851aaceb",
+      "awayTeam": "Lazio",
+      "homeTeam": "Udinese",
+      "pick": "Lazio ML",
+      "status": "PENDING"
+    }
+  ]
+}

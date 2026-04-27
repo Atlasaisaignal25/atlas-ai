@@ -1,0 +1,12 @@
+{
+  "sport": "NBA",
+  "date": "2026-04-15",
+  "games": [
+    {
+      "awayTeam": "Orlando Magic",
+      "homeTeam": "Philadelphia 76ers",
+      "pick": "Over (222.5)",
+      "status": "PENDING"
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+[
+  {
+    "date": "2026-03-31",
+    "rank": 1,
+    "game": "Phoenix Suns vs Orlando Magic",
+    "pick": "Over (225.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-03-31",
+    "rank": 2,
+    "game": "Dallas Mavericks vs Milwaukee Bucks",
+    "pick": "Milwaukee Bucks (0)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-03-31",
+    "rank": 3,
+    "game": "Toronto Raptors vs Detroit Pistons",
+    "pick": "Under (219)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-03-31",
+    "rank": 4,
+    "game": "New York Knicks vs Houston Rockets",
+    "pick": "Houston Rockets (0)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-03-31",
+    "rank": 5,
+    "game": "Cleveland Cavaliers vs Los Angeles Lakers",
+    "pick": "Under (236.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-01",
+    "rank": 1,
+    "game": "Indiana Pacers vs Chicago Bulls",
+    "pick": "Under (247.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-01",
+    "rank": 2,
+    "game": "Atlanta Hawks vs Orlando Magic",
+    "pick": "Under (233.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-01",
+    "rank": 3,
+    "game": "Boston Celtics vs Miami Heat",
+    "pick": "Under (230)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-01",
+    "rank": 4,
+    "game": "New York Knicks vs Memphis Grizzlies",
+    "pick": "Under (226)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-01",
+    "rank": 5,
+    "game": "San Antonio Spurs vs Golden State Warriors",
+    "pick": "San Antonio Spurs (-14.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-02",
+    "rank": 1,
+    "game": "Los Angeles Lakers vs Oklahoma City Thunder",
+    "pick": "Over (230.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-02",
+    "rank": 2,
+    "game": "New Orleans Pelicans vs Portland Trail Blazers",
+    "pick": "Over (232.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-02",
+    "rank": 3,
+    "game": "Minnesota Timberwolves vs Detroit Pistons",
+    "pick": "Under (225)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-02",
+    "rank": 4,
+    "game": "San Antonio Spurs vs Los Angeles Clippers",
+    "pick": "Under (231)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "rank": 1,
+    "game": "Indiana Pacers vs Charlotte Hornets",
+    "pick": "Charlotte Hornets (-15.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "rank": 2,
+    "game": "Boston Celtics vs Milwaukee Bucks",
+    "pick": "Over (218.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "rank": 3,
+    "game": "Utah Jazz vs Houston Rockets",
+    "pick": "Under (231.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "rank": 4,
+    "game": "Toronto Raptors vs Memphis Grizzlies",
+    "pick": "Toronto Raptors (-13.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "rank": 5,
+    "game": "Chicago Bulls vs New York Knicks",
+    "pick": "Under (238)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-04",
+    "rank": 1,
+    "game": "San Antonio Spurs vs Denver Nuggets",
+    "pick": "Under (242.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-04",
+    "rank": 2,
+    "game": "Washington Wizards vs Miami Heat",
+    "pick": "Under (247.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-04",
+    "rank": 3,
+    "game": "Detroit Pistons vs Philadelphia 76ers",
+    "pick": "Over (228.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-05",
+    "rank": 1,
+    "game": "Charlotte Hornets vs Minnesota Timberwolves",
+    "pick": "Under (227)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-05",
+    "rank": 2,
+    "game": "Los Angeles Lakers vs Dallas Mavericks",
+    "pick": "Under (233.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-05",
+    "rank": 3,
+    "game": "Utah Jazz vs Oklahoma City Thunder",
+    "pick": "Under (239)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-06",
+    "rank": 1,
+    "game": "New York Knicks vs Atlanta Hawks",
+    "pick": "Under (229.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-06",
+    "rank": 2,
+    "game": "Portland Trail Blazers vs Denver Nuggets",
+    "pick": "Under (238.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-07",
+    "rank": 1,
+    "game": "Dallas Mavericks vs Los Angeles Clippers",
+    "pick": "Over (236.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-07",
+    "rank": 2,
+    "game": "Houston Rockets vs Phoenix Suns",
+    "pick": "Over (219.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-07",
+    "rank": 3,
+    "game": "Oklahoma City Thunder vs Los Angeles Lakers",
+    "pick": "Under (224)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-08",
+    "rank": 1,
+    "game": "Memphis Grizzlies vs Denver Nuggets",
+    "pick": "Over (244.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-08",
+    "rank": 2,
+    "game": "Portland Trail Blazers vs San Antonio Spurs",
+    "pick": "Over (232.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-08",
+    "rank": 3,
+    "game": "Atlanta Hawks vs Cleveland Cavaliers",
+    "pick": "Under (236)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-08",
+    "rank": 4,
+    "game": "Milwaukee Bucks vs Detroit Pistons",
+    "pick": "Under (221)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-08",
+    "rank": 5,
+    "game": "Minnesota Timberwolves vs Orlando Magic",
+    "pick": "Under (228.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-09",
+    "rank": 1,
+    "game": "Indiana Pacers vs Brooklyn Nets",
+    "pick": "Under (222)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-09",
+    "rank": 2,
+    "game": "Los Angeles Lakers vs Golden State Warriors",
+    "pick": "Over (225.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-09",
+    "rank": 3,
+    "game": "Boston Celtics vs New York Knicks",
+    "pick": "Over (216.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-09",
+    "rank": 4,
+    "game": "Chicago Bulls vs Washington Wizards",
+    "pick": "Under (247)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-09",
+    "rank": 5,
+    "game": "Miami Heat vs Toronto Raptors",
+    "pick": "Under (239)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-10",
+    "rank": 1,
+    "game": "Detroit Pistons vs Charlotte Hornets",
+    "pick": "Charlotte Hornets (-5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-10",
+    "rank": 2,
+    "game": "New Orleans Pelicans vs Boston Celtics",
+    "pick": "Over (224.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-10",
+    "rank": 3,
+    "game": "Orlando Magic vs Chicago Bulls",
+    "pick": "Under (242)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-10",
+    "rank": 4,
+    "game": "Memphis Grizzlies vs Utah Jazz",
+    "pick": "Over (248.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-10",
+    "rank": 5,
+    "game": "Los Angeles Clippers vs Portland Trail Blazers",
+    "pick": "Under (224)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-12",
+    "rank": 1,
+    "game": "Utah Jazz vs Los Angeles Lakers",
+    "pick": "Under (235)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-12",
+    "rank": 2,
+    "game": "Detroit Pistons vs Indiana Pacers",
+    "pick": "Detroit Pistons (-13.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-12",
+    "rank": 3,
+    "game": "Milwaukee Bucks vs Philadelphia 76ers",
+    "pick": "Under (227)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-12",
+    "rank": 4,
+    "game": "Chicago Bulls vs Dallas Mavericks",
+    "pick": "Under (245)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-12",
+    "rank": 5,
+    "game": "New Orleans Pelicans vs Minnesota Timberwolves",
+    "pick": "Minnesota Timberwolves (-7.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-14",
+    "rank": 1,
+    "game": "Portland Trail Blazers vs Phoenix Suns",
+    "pick": "Under (217)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-15",
+    "rank": 1,
+    "game": "Orlando Magic vs Philadelphia 76ers",
+    "pick": "Over (222.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-17",
+    "rank": 1,
+    "game": "Golden State Warriors vs Phoenix Suns",
+    "pick": "Under (219)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-17",
+    "rank": 2,
+    "game": "Charlotte Hornets vs Orlando Magic",
+    "pick": "Under (218)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "rank": 1,
+    "game": "Houston Rockets vs Los Angeles Lakers",
+    "pick": "Over (207.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "rank": 2,
+    "game": "Minnesota Timberwolves vs Denver Nuggets",
+    "pick": "Under (232)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-19",
+    "rank": 1,
+    "game": "Philadelphia 76ers vs Boston Celtics",
+    "pick": "Under (213)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-19",
+    "rank": 2,
+    "game": "Phoenix Suns vs Oklahoma City Thunder",
+    "pick": "Under (215.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-19",
+    "rank": 3,
+    "game": "Orlando Magic vs Detroit Pistons",
+    "pick": "Under (218)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-19",
+    "rank": 4,
+    "game": "Portland Trail Blazers vs San Antonio Spurs",
+    "pick": "Under (222)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-20",
+    "rank": 1,
+    "game": "Toronto Raptors vs Cleveland Cavaliers",
+    "pick": "Over (223.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-20",
+    "rank": 2,
+    "game": "Minnesota Timberwolves vs Denver Nuggets",
+    "pick": "Over (232)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-20",
+    "rank": 3,
+    "game": "Atlanta Hawks vs New York Knicks",
+    "pick": "Under (217)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "rank": 1,
+    "game": "Houston Rockets vs Los Angeles Lakers",
+    "pick": "Houston Rockets (-5.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "rank": 2,
+    "game": "Portland Trail Blazers vs San Antonio Spurs",
+    "pick": "Over (220.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "rank": 3,
+    "game": "Philadelphia 76ers vs Boston Celtics",
+    "pick": "Under (215.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-23",
+    "rank": 1,
+    "game": "New York Knicks vs Atlanta Hawks",
+    "pick": "Under (215.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-23",
+    "rank": 2,
+    "game": "Denver Nuggets vs Minnesota Timberwolves",
+    "pick": "Denver Nuggets (-2.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-23",
+    "rank": 3,
+    "game": "Cleveland Cavaliers vs Toronto Raptors",
+    "pick": "Over (220.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-24",
+    "rank": 1,
+    "game": "Los Angeles Lakers vs Houston Rockets",
+    "pick": "Over (207.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-25",
+    "rank": 1,
+    "game": "New York Knicks vs Atlanta Hawks",
+    "pick": "Under (214.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-25",
+    "rank": 2,
+    "game": "Denver Nuggets vs Minnesota Timberwolves",
+    "pick": "Denver Nuggets (-2.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-25",
+    "rank": 3,
+    "game": "Detroit Pistons vs Orlando Magic",
+    "pick": "Over (214.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-26",
+    "rank": 1,
+    "game": "Boston Celtics vs Philadelphia 76ers",
+    "pick": "Under (213.5)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-26",
+    "rank": 2,
+    "game": "Los Angeles Lakers vs Houston Rockets",
+    "pick": "Los Angeles Lakers (+5.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-26",
+    "rank": 3,
+    "game": "San Antonio Spurs vs Portland Trail Blazers",
+    "pick": "Under (218)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-27",
+    "rank": 1,
+    "game": "Detroit Pistons vs Orlando Magic",
+    "pick": "Under (214)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-27",
+    "rank": 2,
+    "game": "Minnesota Timberwolves vs Denver Nuggets",
+    "pick": "Under (222)",
+    "market": "totals",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  },
+  {
+    "date": "2026-04-27",
+    "rank": 3,
+    "game": "Oklahoma City Thunder vs Phoenix Suns",
+    "pick": "Oklahoma City Thunder (-11.5)",
+    "market": "spreads",
+    "status": "PENDING",
+    "pregameStatus": "PENDING"
+  }
+]

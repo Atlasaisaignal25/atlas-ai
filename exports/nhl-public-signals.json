@@ -1,0 +1,20 @@
+{
+  "sport": "NHL",
+  "date": "2026-04-27",
+  "games": [
+    {
+      "gameId": "d907fb8cd63fbde63d560602dec6d6ab",
+      "awayTeam": "Philadelphia Flyers",
+      "homeTeam": "Pittsburgh Penguins",
+      "pick": "Philadelphia Flyers",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "8ac64c0fb7471af7aaeb79ec29b21108",
+      "awayTeam": "Vegas Golden Knights",
+      "homeTeam": "Utah Mammoth",
+      "pick": "Utah Mammoth",
+      "status": "PENDING"
+    }
+  ]
+}

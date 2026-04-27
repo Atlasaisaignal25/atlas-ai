@@ -1,0 +1,678 @@
+{
+  "2026-04-26": [
+    {
+      "market": "totals",
+      "odd": {
+        "name": "Under",
+        "price": -107,
+        "point": 207.5,
+        "bookmaker": "LowVig.ag"
+      },
+      "decimal": 1.9345794392523366,
+      "edge": 0,
+      "signal": "VALUE",
+      "clv": "Small edge vs market",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0.5
+      },
+      "confidence": 100,
+      "tier": "PREMIUM",
+      "clp": {
+        "projected": 206.92,
+        "direction": "DOWN",
+        "edge": 0.58
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "pressure": 52,
+      "pressureLabel": "HIGH",
+      "syntheticCL": {
+        "projected": 206.97499999999997,
+        "edge": 0.5250000000000341,
+        "direction": "DOWN"
+      },
+      "disagreement": {
+        "score": 0,
+        "label": "NONE",
+        "range": null
+      },
+      "liquidity": {
+        "score": 70,
+        "label": "DEEP"
+      },
+      "disagreement2": {
+        "score": 70,
+        "label": "HIGH",
+        "range": 1.5,
+        "sharpDisagreement": true
+      },
+      "sharpConsensus": {
+        "score": 0,
+        "label": "NONE",
+        "direction": "FLAT",
+        "avg": null
+      },
+      "velocity": {
+        "score": 41,
+        "label": "MEDIUM"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "MEDIUM",
+        "score": 60,
+        "sharpCount": 2,
+        "sharpLean": 207.5
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "LOW_SHARP_TRAP",
+        "score": 25
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 137.45,
+      "category": "NUCLEAR",
+      "score": 72.57457943925235,
+      "gameId": "399d2e69e4408801d09e614c88779989",
+      "awayTeam": "Los Angeles Lakers",
+      "homeTeam": "Houston Rockets",
+      "startTime": "2026-04-27T01:40:00Z",
+      "pickLabel": "Under (207.5)",
+      "originalPickLabel": "Under (207.5)",
+      "originalMarket": "totals",
+      "originalPoint": 207.5,
+      "originalPrice": -107,
+      "originalConfidence": 100,
+      "originalValuePriority": 137.45,
+      "originalEdge": 0,
+      "livePoint": 207.5,
+      "livePrice": -107,
+      "liveConfidence": 100,
+      "liveValuePriority": 137.45,
+      "liveEdge": 0
+    },
+    {
+      "market": "totals",
+      "odd": {
+        "name": "Under",
+        "price": -107,
+        "point": 220,
+        "bookmaker": "LowVig.ag"
+      },
+      "decimal": 1.9345794392523366,
+      "edge": 0,
+      "signal": "NONE",
+      "clv": "Market aligned",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0
+      },
+      "confidence": 86.16000000000017,
+      "tier": "PREMIUM",
+      "clp": {
+        "projected": 219.4,
+        "direction": "DOWN",
+        "edge": 0.6
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "pressure": 36,
+      "pressureLabel": "MEDIUM",
+      "syntheticCL": {
+        "projected": 219.14999999999998,
+        "edge": 0.8500000000000227,
+        "direction": "DOWN"
+      },
+      "disagreement": {
+        "score": 0,
+        "label": "NONE",
+        "range": null
+      },
+      "liquidity": {
+        "score": 58,
+        "label": "SOLID"
+      },
+      "disagreement2": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1,
+        "sharpDisagreement": false
+      },
+      "sharpConsensus": {
+        "score": 0,
+        "label": "NONE",
+        "direction": "FLAT",
+        "avg": null
+      },
+      "velocity": {
+        "score": 27,
+        "label": "SLOW"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "NONE",
+        "score": 0,
+        "sharpCount": 2,
+        "sharpLean": 220
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "NONE",
+        "score": 0
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 112.16000000000017,
+      "category": "NUCLEAR",
+      "score": 56.35057943925236,
+      "gameId": "d94d967f8600a3fb8b869f32c31a7357",
+      "awayTeam": "Cleveland Cavaliers",
+      "homeTeam": "Toronto Raptors",
+      "startTime": "2026-04-26T17:10:00Z",
+      "pickLabel": "Under (220)",
+      "originalPickLabel": "Under (220)",
+      "originalMarket": "totals",
+      "originalPoint": 220,
+      "originalPrice": -107,
+      "originalConfidence": 86.16000000000017,
+      "originalValuePriority": 112.16000000000017,
+      "originalEdge": 0,
+      "livePoint": 220,
+      "livePrice": -107,
+      "liveConfidence": 86.16000000000017,
+      "liveValuePriority": 112.16000000000017,
+      "liveEdge": 0
+    },
+    {
+      "market": "totals",
+      "odd": {
+        "name": "Under",
+        "price": -105,
+        "point": 218.5,
+        "bookmaker": "LowVig.ag"
+      },
+      "decimal": 1.9523809523809523,
+      "edge": 0,
+      "signal": "NONE",
+      "clv": "Market aligned",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0
+      },
+      "confidence": 86.16000000000017,
+      "tier": "PREMIUM",
+      "clp": {
+        "projected": 217.9,
+        "direction": "DOWN",
+        "edge": 0.6
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "pressure": 36,
+      "pressureLabel": "MEDIUM",
+      "syntheticCL": {
+        "projected": 217.64999999999998,
+        "edge": 0.8500000000000227,
+        "direction": "DOWN"
+      },
+      "disagreement": {
+        "score": 0,
+        "label": "NONE",
+        "range": null
+      },
+      "liquidity": {
+        "score": 58,
+        "label": "SOLID"
+      },
+      "disagreement2": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1,
+        "sharpDisagreement": false
+      },
+      "sharpConsensus": {
+        "score": 0,
+        "label": "NONE",
+        "direction": "FLAT",
+        "avg": null
+      },
+      "velocity": {
+        "score": 27,
+        "label": "SLOW"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "NONE",
+        "score": 0,
+        "sharpCount": 2,
+        "sharpLean": 218.5
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "NONE",
+        "score": 0
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 112.16000000000017,
+      "category": "NUCLEAR",
+      "score": 56.36838095238096,
+      "gameId": "0cab123e90bdf5d1d144a7e26ebc339c",
+      "awayTeam": "San Antonio Spurs",
+      "homeTeam": "Portland Trail Blazers",
+      "startTime": "2026-04-26T19:40:00Z",
+      "pickLabel": "Under (218.5)",
+      "originalPickLabel": "Under (218.5)",
+      "originalMarket": "totals",
+      "originalPoint": 218.5,
+      "originalPrice": -105,
+      "originalConfidence": 86.16000000000017,
+      "originalValuePriority": 112.16000000000017,
+      "originalEdge": 0,
+      "livePoint": 218.5,
+      "livePrice": -105,
+      "liveConfidence": 86.16000000000017,
+      "liveValuePriority": 112.16000000000017,
+      "liveEdge": 0
+    }
+  ],
+  "2026-04-27": [
+    {
+      "market": "totals",
+      "odd": {
+        "name": "Under",
+        "price": -109,
+        "point": 213,
+        "bookmaker": "LowVig.ag"
+      },
+      "decimal": 1.9174311926605505,
+      "edge": 0,
+      "signal": "NONE",
+      "clv": "Market aligned",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0.25
+      },
+      "confidence": 93.97000000000021,
+      "tier": "PREMIUM",
+      "clp": {
+        "projected": 212.56,
+        "direction": "DOWN",
+        "edge": 0.44
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "pressure": 46,
+      "pressureLabel": "MEDIUM",
+      "syntheticCL": {
+        "projected": 212.31249999999997,
+        "edge": 0.6875000000000284,
+        "direction": "DOWN"
+      },
+      "disagreement": {
+        "score": 70,
+        "label": "HIGH",
+        "range": 1.5
+      },
+      "liquidity": {
+        "score": 70,
+        "label": "DEEP"
+      },
+      "disagreement2": {
+        "score": 70,
+        "label": "HIGH",
+        "range": 1.5,
+        "sharpDisagreement": false
+      },
+      "sharpConsensus": {
+        "score": 20,
+        "label": "LOW",
+        "direction": "DOWN",
+        "avg": 213
+      },
+      "velocity": {
+        "score": 38,
+        "label": "SLOW"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "LIGHT",
+        "score": 30,
+        "sharpCount": 2,
+        "sharpLean": 213
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "NONE",
+        "score": 0
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 123.5700000000002,
+      "category": "NUCLEAR",
+      "score": 55.834431192660574,
+      "gameId": "846b0e9b691b5a291619fa22f96c7dfa",
+      "awayTeam": "Detroit Pistons",
+      "homeTeam": "Orlando Magic",
+      "startTime": "2026-04-28T00:10:00Z",
+      "pickLabel": "Under (213)",
+      "originalPickLabel": "Under (213)",
+      "originalMarket": "totals",
+      "originalPoint": 213,
+      "originalPrice": -109,
+      "originalConfidence": 93.97000000000021,
+      "originalValuePriority": 123.5700000000002,
+      "originalEdge": 0,
+      "livePoint": 213,
+      "livePrice": -109,
+      "liveConfidence": 93.97000000000021,
+      "liveValuePriority": 123.5700000000002,
+      "liveEdge": 0
+    },
+    {
+      "market": "spreads",
+      "odd": {
+        "name": "Oklahoma City Thunder",
+        "price": -102,
+        "point": -11.5,
+        "bookmaker": "FanDuel"
+      },
+      "decimal": 1.9803921568627452,
+      "edge": 0,
+      "signal": "VALUE",
+      "clv": "Small edge vs market",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0.5
+      },
+      "clp": {
+        "projected": 11.88,
+        "direction": "UP",
+        "edge": 0.38
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "confidence": 81.86000000000003,
+      "tier": "STRONG",
+      "pressure": 26,
+      "pressureLabel": "LOW",
+      "syntheticCL": {
+        "projected": 11.725000000000001,
+        "edge": 0.22500000000000142,
+        "direction": "UP"
+      },
+      "disagreement": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1
+      },
+      "liquidity": {
+        "score": 23,
+        "label": "MEDIUM"
+      },
+      "disagreement2": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1,
+        "sharpDisagreement": true
+      },
+      "sharpConsensus": {
+        "score": 45,
+        "label": "MEDIUM",
+        "direction": "DOWN",
+        "avg": 10.5
+      },
+      "velocity": {
+        "score": 23,
+        "label": "SLOW"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "MEDIUM",
+        "score": 60,
+        "sharpCount": 2,
+        "sharpLean": 10.5
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "NONE",
+        "score": 0
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 115.06000000000003,
+      "category": "NUCLEAR",
+      "score": 51.20639215686275,
+      "gameId": "b3eb8f644d05290981f8805f5410f24a",
+      "awayTeam": "Oklahoma City Thunder",
+      "homeTeam": "Phoenix Suns",
+      "startTime": "2026-04-28T01:40:00Z",
+      "pickLabel": "Oklahoma City Thunder (-11.5)",
+      "originalPickLabel": "Oklahoma City Thunder (-11.5)",
+      "originalMarket": "spreads",
+      "originalPoint": -11.5,
+      "originalPrice": -102,
+      "originalConfidence": 81.86000000000003,
+      "originalValuePriority": 115.06000000000003,
+      "originalEdge": 0,
+      "livePoint": -11.5,
+      "livePrice": -102,
+      "liveConfidence": 81.86000000000003,
+      "liveValuePriority": 115.06000000000003,
+      "liveEdge": 0
+    },
+    {
+      "market": "totals",
+      "odd": {
+        "name": "Under",
+        "price": -105,
+        "point": 221.5,
+        "bookmaker": "DraftKings"
+      },
+      "decimal": 1.9523809523809523,
+      "edge": 0,
+      "signal": "VALUE",
+      "clv": "Small edge vs market",
+      "outlier": {
+        "outlier": false,
+        "strength": "NONE",
+        "edge": 0.5
+      },
+      "confidence": 83.96000000000019,
+      "tier": "STRONG",
+      "clp": {
+        "projected": 221.12,
+        "direction": "DOWN",
+        "edge": 0.38
+      },
+      "againstClosing": false,
+      "clvTrap": {
+        "trap": false,
+        "label": "NONE"
+      },
+      "pressure": 26,
+      "pressureLabel": "LOW",
+      "syntheticCL": {
+        "projected": 221.27499999999998,
+        "edge": 0.22500000000002274,
+        "direction": "DOWN"
+      },
+      "disagreement": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1
+      },
+      "liquidity": {
+        "score": 23,
+        "label": "MEDIUM"
+      },
+      "disagreement2": {
+        "score": 50,
+        "label": "MEDIUM",
+        "range": 1,
+        "sharpDisagreement": false
+      },
+      "sharpConsensus": {
+        "score": 0,
+        "label": "NONE",
+        "direction": "FLAT",
+        "avg": 222
+      },
+      "velocity": {
+        "score": 23,
+        "label": "SLOW"
+      },
+      "efficiency": {
+        "score": 75,
+        "label": "SHARP_WINDOW"
+      },
+      "timing": {
+        "label": "NEUTRAL",
+        "score": 50
+      },
+      "smartMoney": {
+        "label": "NONE",
+        "score": 0,
+        "sharpCount": 0,
+        "sharpLean": 0
+      },
+      "fakeSteam": {
+        "label": "NONE",
+        "score": 0
+      },
+      "regime": {
+        "label": "BALANCED",
+        "score": 50
+      },
+      "sharpTrap": {
+        "label": "NONE",
+        "score": 0
+      },
+      "liquidityShock": {
+        "label": "LOW_SHOCK",
+        "score": 20
+      },
+      "valuePriority": 109.96000000000019,
+      "category": "NUCLEAR",
+      "score": 51.38838095238097,
+      "gameId": "e4d639b6c49e5fd0accc6e80636e88fe",
+      "awayTeam": "Minnesota Timberwolves",
+      "homeTeam": "Denver Nuggets",
+      "startTime": "2026-04-28T02:40:00Z",
+      "pickLabel": "Under (221.5)",
+      "originalPickLabel": "Under (221.5)",
+      "originalMarket": "totals",
+      "originalPoint": 221.5,
+      "originalPrice": -105,
+      "originalConfidence": 83.96000000000019,
+      "originalValuePriority": 109.96000000000019,
+      "originalEdge": 0,
+      "livePoint": 221.5,
+      "livePrice": -105,
+      "liveConfidence": 83.96000000000019,
+      "liveValuePriority": 109.96000000000019,
+      "liveEdge": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "sport": "NBA",
+  "date": "2026-04-27",
+  "top5": [
+    {
+      "sport": "NBA",
+      "rank": 1,
+      "awayTeam": "Detroit Pistons",
+      "homeTeam": "Orlando Magic",
+      "market": "totals",
+      "pick": "Under (213)",
+      "odds": -109,
+      "line": 213,
+      "confidence": 93.97000000000021,
+      "valuePriority": 123.5700000000002,
+      "score": 55.834431192660574,
+      "startTime": "2026-04-28T00:10:00Z",
+      "status": "PENDING",
+      "reviewReason": "WAITING_WINDOW",
+      "isTopSignal": true
+    },
+    {
+      "sport": "NBA",
+      "rank": 2,
+      "awayTeam": "Oklahoma City Thunder",
+      "homeTeam": "Phoenix Suns",
+      "market": "spreads",
+      "pick": "Oklahoma City Thunder (-11.5)",
+      "odds": -102,
+      "line": -11.5,
+      "confidence": 81.86000000000003,
+      "valuePriority": 115.06000000000003,
+      "score": 51.20639215686275,
+      "startTime": "2026-04-28T01:40:00Z",
+      "status": "PENDING",
+      "reviewReason": "WAITING_WINDOW",
+      "isTopSignal": false
+    },
+    {
+      "sport": "NBA",
+      "rank": 3,
+      "awayTeam": "Minnesota Timberwolves",
+      "homeTeam": "Denver Nuggets",
+      "market": "totals",
+      "pick": "Under (221.5)",
+      "odds": -105,
+      "line": 221.5,
+      "confidence": 83.96000000000019,
+      "valuePriority": 109.96000000000019,
+      "score": 51.38838095238097,
+      "startTime": "2026-04-28T02:40:00Z",
+      "status": "PENDING",
+      "reviewReason": "WAITING_WINDOW",
+      "isTopSignal": false
+    }
+  ]
+}

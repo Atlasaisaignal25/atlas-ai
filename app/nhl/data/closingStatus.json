@@ -1,0 +1,54 @@
+{
+  "2026-04-26": {
+    "87206a7bb3286137bec3f9aef8d52f4d": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Edmonton Oilers",
+      "homeTeam": "Anaheim Ducks",
+      "pickLabel": "Anaheim Ducks",
+      "startTime": "2026-04-27T01:30:00Z"
+    },
+    "f852249347a7ae69bc8a8d2b0097a030": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Tampa Bay Lightning",
+      "homeTeam": "Montréal Canadiens",
+      "pickLabel": "Montréal Canadiens",
+      "startTime": "2026-04-26T23:10:00Z"
+    },
+    "a8961751f4e2ecfa35e82df7de5f2269": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Colorado Avalanche",
+      "homeTeam": "Los Angeles Kings",
+      "pickLabel": "Over (5.5)",
+      "startTime": "2026-04-26T20:30:00Z"
+    },
+    "22d202aee787bcd6f4488f76fa15c3fd": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Buffalo Sabres",
+      "homeTeam": "Boston Bruins",
+      "pickLabel": "Boston Bruins",
+      "startTime": "2026-04-26T18:10:00Z"
+    }
+  },
+  "2026-04-27": {
+    "d907fb8cd63fbde63d560602dec6d6ab": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Philadelphia Flyers",
+      "homeTeam": "Pittsburgh Penguins",
+      "pickLabel": "Philadelphia Flyers",
+      "startTime": "2026-04-27T23:10:00Z"
+    },
+    "8ac64c0fb7471af7aaeb79ec29b21108": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Vegas Golden Knights",
+      "homeTeam": "Utah Mammoth",
+      "pickLabel": "Utah Mammoth",
+      "startTime": "2026-04-28T01:40:00Z"
+    }
+  }
+}

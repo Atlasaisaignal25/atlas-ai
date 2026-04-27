@@ -1,0 +1,36 @@
+{
+  "sport": "MLB",
+  "date": "2026-04-26",
+  "games": [
+    {
+      "gameId": "3b5d0ef6c7e43cabe937c7a9f10067e9",
+      "pick": "Colorado Rockies",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "7ec692536ced485b4f6b8d0e30b4fef8",
+      "pick": "Under",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "cc556f65adbf4288f6798535aeee908d",
+      "pick": "Under",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "4bfe574e7c5269d65b3a9936e5793ada",
+      "pick": "Cincinnati Reds",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "c26a6d846d17f3b6d042903c4207d68f",
+      "pick": "Philadelphia Phillies",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "f98073ff54e69128fe75a3c5776fb520",
+      "pick": "Toronto Blue Jays",
+      "status": "PENDING"
+    }
+  ]
+}

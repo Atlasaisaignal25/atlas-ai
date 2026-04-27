@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-03-30",
+    "sport": "NBA",
+    "game": "Chicago Bulls vs San Antonio Spurs",
+    "pick": "Under (243)",
+    "market": "totals",
+    "odds": -107,
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-03-31",
+    "sport": "NBA",
+    "game": "Phoenix Suns vs Orlando Magic",
+    "pick": "Over (225.5)",
+    "market": "totals",
+    "odds": -106,
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-02",
+    "sport": "NBA",
+    "game": "Los Angeles Lakers vs Oklahoma City Thunder",
+    "pick": "Over (230.5)",
+    "market": "totals",
+    "odds": -105,
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-03",
+    "sport": "NBA",
+    "game": "Indiana Pacers vs Charlotte Hornets",
+    "pick": "Over (236)",
+    "market": "totals",
+    "odds": -107,
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-04",
+    "sport": "NBA",
+    "game": "San Antonio Spurs vs Denver Nuggets",
+    "pick": "Under (242.5)",
+    "market": "totals",
+    "odds": -107,
+    "status": "PENDING"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "sport": "NHL",
+  "date": "2026-04-27",
+  "top5": [
+    {
+      "sport": "NHL",
+      "rank": 1,
+      "awayTeam": "Philadelphia Flyers",
+      "homeTeam": "Pittsburgh Penguins",
+      "market": "h2h",
+      "pick": "Philadelphia Flyers ML",
+      "odds": 117,
+      "line": null,
+      "confidence": 70,
+      "valuePriority": 85,
+      "score": 78.25,
+      "startTime": "2026-04-27T23:10:00Z",
+      "status": "PENDING",
+      "reviewReason": "WAITING_WINDOW",
+      "isTopSignal": true
+    },
+    {
+      "sport": "NHL",
+      "rank": 2,
+      "awayTeam": "Vegas Golden Knights",
+      "homeTeam": "Utah Mammoth",
+      "market": "h2h",
+      "pick": "Utah Mammoth ML",
+      "odds": 103,
+      "line": null,
+      "confidence": 70,
+      "valuePriority": 85,
+      "score": 78.25,
+      "startTime": "2026-04-28T01:40:00Z",
+      "status": "PENDING",
+      "reviewReason": "WAITING_WINDOW",
+      "isTopSignal": false
+    }
+  ]
+}

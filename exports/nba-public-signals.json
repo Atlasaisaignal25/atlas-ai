@@ -1,0 +1,27 @@
+{
+  "sport": "NBA",
+  "date": "2026-04-27",
+  "games": [
+    {
+      "gameId": "846b0e9b691b5a291619fa22f96c7dfa",
+      "awayTeam": "Detroit Pistons",
+      "homeTeam": "Orlando Magic",
+      "pick": "Under (213)",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "b3eb8f644d05290981f8805f5410f24a",
+      "awayTeam": "Oklahoma City Thunder",
+      "homeTeam": "Phoenix Suns",
+      "pick": "Phoenix Suns (+11.5)",
+      "status": "PENDING"
+    },
+    {
+      "gameId": "e4d639b6c49e5fd0accc6e80636e88fe",
+      "awayTeam": "Minnesota Timberwolves",
+      "homeTeam": "Denver Nuggets",
+      "pick": "Minnesota Timberwolves (+11.5)",
+      "status": "PENDING"
+    }
+  ]
+}

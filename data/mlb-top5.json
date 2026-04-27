@@ -1,0 +1,51 @@
+{
+  "sport": "MLB",
+  "date": "2026-04-19",
+  "top5": [
+    {
+      "rank": 1,
+      "awayTeam": "Tampa Bay Rays",
+      "homeTeam": "Pittsburgh Pirates",
+      "pick": "Pittsburgh Pirates",
+      "startTime": "2026-04-19T17:36:00Z",
+      "status": "PENDING",
+      "isTopSignal": true
+    },
+    {
+      "rank": 2,
+      "awayTeam": "Toronto Blue Jays",
+      "homeTeam": "Arizona Diamondbacks",
+      "pick": "Arizona Diamondbacks",
+      "startTime": "2026-04-19T20:11:00Z",
+      "status": "PENDING",
+      "isTopSignal": false
+    },
+    {
+      "rank": 3,
+      "awayTeam": "Baltimore Orioles",
+      "homeTeam": "Cleveland Guardians",
+      "pick": "Baltimore Orioles",
+      "startTime": "2026-04-19T17:41:00Z",
+      "status": "PENDING",
+      "isTopSignal": false
+    },
+    {
+      "rank": 4,
+      "awayTeam": "San Diego Padres",
+      "homeTeam": "Los Angeles Angels",
+      "pick": "Los Angeles Angels",
+      "startTime": "2026-04-19T20:08:00Z",
+      "status": "PENDING",
+      "isTopSignal": false
+    },
+    {
+      "rank": 5,
+      "awayTeam": "Atlanta Braves",
+      "homeTeam": "Philadelphia Phillies",
+      "pick": "Philadelphia Phillies",
+      "startTime": "2026-04-19T23:21:00Z",
+      "status": "PENDING",
+      "isTopSignal": false
+    }
+  ]
+}

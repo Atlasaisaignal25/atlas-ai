@@ -1,0 +1,54 @@
+{
+  "2026-04-26": {
+    "399d2e69e4408801d09e614c88779989": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Los Angeles Lakers",
+      "homeTeam": "Houston Rockets",
+      "pickLabel": "Under (207.5)",
+      "startTime": "2026-04-27T01:40:00Z"
+    },
+    "d94d967f8600a3fb8b869f32c31a7357": {
+      "status": "CONFIRMED",
+      "reason": "PASSED_CHECKS",
+      "awayTeam": "Cleveland Cavaliers",
+      "homeTeam": "Toronto Raptors",
+      "pickLabel": "Under (220)",
+      "startTime": "2026-04-26T17:10:00Z"
+    },
+    "0cab123e90bdf5d1d144a7e26ebc339c": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "San Antonio Spurs",
+      "homeTeam": "Portland Trail Blazers",
+      "pickLabel": "Under (218.5)",
+      "startTime": "2026-04-26T19:40:00Z"
+    }
+  },
+  "2026-04-27": {
+    "846b0e9b691b5a291619fa22f96c7dfa": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Detroit Pistons",
+      "homeTeam": "Orlando Magic",
+      "pickLabel": "Under (213)",
+      "startTime": "2026-04-28T00:10:00Z"
+    },
+    "b3eb8f644d05290981f8805f5410f24a": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Oklahoma City Thunder",
+      "homeTeam": "Phoenix Suns",
+      "pickLabel": "Oklahoma City Thunder (-11.5)",
+      "startTime": "2026-04-28T01:40:00Z"
+    },
+    "e4d639b6c49e5fd0accc6e80636e88fe": {
+      "status": "PENDING",
+      "reason": "WAITING_WINDOW",
+      "awayTeam": "Minnesota Timberwolves",
+      "homeTeam": "Denver Nuggets",
+      "pickLabel": "Under (221.5)",
+      "startTime": "2026-04-28T02:40:00Z"
+    }
+  }
+}
