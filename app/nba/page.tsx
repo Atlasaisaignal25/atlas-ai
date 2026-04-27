@@ -74,6 +74,10 @@ function safeBook(book?: string) {
   return book ?? "Unknown";
 }
 
+function isNotNull<T>(value: T | null | undefined): value is T {
+  return value !== null && value !== undefined;
+}
+
 function americanToDecimal(american: number): number {
   const a = Number(american);
   if (!Number.isFinite(a) || a === 0) return NaN;
@@ -368,7 +372,7 @@ export default async function NBAPage() {
         book: safeBook(o.bookmaker),
       };
     })
-    .filter(Boolean) as MarketPoint[];
+    .filter(isNotNull) ?? [];
 
 const totalPoints: MarketPoint[] =
   totalsRaw
@@ -382,7 +386,7 @@ const totalPoints: MarketPoint[] =
         book: safeBook(o.bookmaker),
       };
     })
-    .filter(Boolean) as MarketPoint[];
+    .filter(isNotNull) ?? [];
 
     const mlCandidates =
       mlRaw
@@ -488,7 +492,7 @@ const totalPoints: MarketPoint[] =
               valuePriority * 0.25,
           };
         })
-        .filter(Boolean) ?? [];
+        .filter(isNotNull) ?? [];
 
     const spreadPointNumbers = spreadPoints.map((p) => p.point);
 const totalPointNumbers = totalPoints.map((p) => p.point);
