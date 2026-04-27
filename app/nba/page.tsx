@@ -368,9 +368,7 @@ export default async function NBAPage() {
         book: safeBook(o.bookmaker),
       };
     })
-    .filter((x): x is MarketPoint => {
-  return x !== null && typeof x.book === "string";
-}) ?? [];
+    .filter(Boolean) as MarketPoint[];
 
 const totalPoints: MarketPoint[] =
   totalsRaw
@@ -384,9 +382,7 @@ const totalPoints: MarketPoint[] =
         book: safeBook(o.bookmaker),
       };
     })
-    .filter((x): x is MarketPoint => {
-  return x !== null && typeof x.book === "string";
-}) ?? [];
+    .filter(Boolean) as MarketPoint[];
 
     const mlCandidates =
       mlRaw
